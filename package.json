@@ -1,0 +1,27 @@
+{
+  "name": "kun-vitepress-template",
+  "description": "A Moe VitePress Template modified by KUN!",
+  "packageManager": "pnpm@9.0.4",
+  "package-manager-strict": false,
+  "author": {
+    "name": "kun",
+    "email": "kungalgame@gamil.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KUN1007/kun-vitepress-template.git"
+  },
+  "scripts": {
+    "dev": "vitepress dev --host 127.0.0.1 --port 7777",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "sass": "^1.77.5",
+    "vitepress": "^1.2.3",
+    "vue": "^3.4.29"
+  },
+  "dependencies": {
+    "@giscus/vue": "^2.4.0"
+  }
+}

@@ -26,7 +26,7 @@ export const sidebarConfig: DefaultTheme.Sidebar = [
         collapsed: false,
         items: [
           {
-            text: 'Ting Dungeon (微小地牢)',
+            text: 'Ting Dungeon (微小',
             link: '/visualnovels/koi/tiny-dungeon',
           },
         ],

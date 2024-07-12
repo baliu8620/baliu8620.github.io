@@ -42,7 +42,7 @@ export const friendList: FriendList[] = [
   },
   {
     avatar: '/avatar/luohua.webp',
-    name: '洛华',
+    name: 'luohua',
     link: 'https://luohua.moe/',
   },
   {

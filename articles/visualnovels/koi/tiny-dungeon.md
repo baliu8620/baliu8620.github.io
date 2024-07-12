@@ -1,4 +1,4 @@
-# Tiny Dungeon (微小地牢)
+# Tiny Dungeon (微小地*)
 
 ## 介绍
 
